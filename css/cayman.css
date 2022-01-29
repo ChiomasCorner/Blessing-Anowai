@@ -590,7 +590,9 @@ a:hover {
   display: block;
   font-weight: bold;
 }
-
+.mySlides img {
+  min-height: 224px;
+}
 .site-footer-credits {
   color: #819198;
 }
