@@ -1,0 +1,20 @@
+# Setup
+title: Project or Site name
+tagline: Ricardo's blog post
+baseurl: '/Blessing-Anowai'
+url: ChiomasCorner.github.io
+
+paginate: 1
+locale: 'en'
+
+# About/contact
+author:
+  name: Author name
+  # url: http://yourhomepage.com
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
