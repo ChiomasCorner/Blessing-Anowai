@@ -1,12 +1,11 @@
 # Setup
 title: Project or Site name
 tagline: Blessing's blog post
-baseurl: '/Blessing-Anowai'
-url: ChiomasCorner.github.io
+baseurl:
+url:
 
 paginate: 1
 locale: 'en'
-
 # About/contact
 author:
   name: Author name
