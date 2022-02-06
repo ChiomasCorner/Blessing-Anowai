@@ -603,3 +603,7 @@ a:hover {
   color: white;
   text-align: center;
 }
+.images-section img {
+  margin: 0 auto;
+  display: block;
+}
